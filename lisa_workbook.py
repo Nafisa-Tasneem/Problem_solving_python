@@ -1,18 +1,27 @@
 def workbook(n, k, arr):
-    cnt = 0
-    page = 0
+    chapter = 0
+    problem = 1
+    page = 1
+    ans = 0
 
-    for i in range(n): # loop for number of chapter
-        no_of_problem = arr[i]
-        while (no_of_problem >0):
-            page = page + no_of_problem//k + no_of_problem % k
-            no_of_problem = arr[i] - k
-            if page <= arr[i]:
-                cnt +=1
+    while True :
+        problem_pg = 0
+        while problem_pg < k:
+            if problem == page:
+                ans +=1
+            problem +=1
+            if problem > arr[chapter]:
+                chapter +=1
+                problem = 1
                 break
+            problem_pg +=1
+        if chapter == n:
+            break
+        page +=1
 
-    print(cnt)
-    return(cnt)
+    print(ans)
+    return ans
+
 
 nk = input().split()
 
