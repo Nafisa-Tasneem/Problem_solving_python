@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7102c2f4-d9f3-485e-a1a5-73dfa8cf12f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1295_leetcode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Uppercase_to_lower_and_vice_versa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_1295.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_1534.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_1572.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lisa_workbook.py" beforeDir="false" afterPath="$PROJECT_DIR$/lisa_workbook.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +37,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lisa_workbook.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Uppercase_to_lower_and_vice_versa.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\tutorials\problem_solving_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lisa_workbook">
+  <component name="RunManager" selected="Python.upper">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="problem_solving_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,27 +87,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lisa_workbook" type="PythonConfigurationType" factoryName="Python">
-      <module name="problem_solving_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\HP\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lisa_workbook.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="taum_bday" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="problem_solving_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,8 +108,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="upper" type="PythonConfigurationType" factoryName="Python">
+      <module name="problem_solving_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HP\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Uppercase_to_lower_and_vice_versa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.lisa_workbook" />
+      <item itemvalue="Python.upper" />
       <item itemvalue="Python.beautiful_day_in_movie" />
       <item itemvalue="Python.taum_bday" />
     </list>
@@ -144,33 +149,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="87" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600587545819">
+    <state x="142" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600882728185">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="87" y="9" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600587545819" />
-    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1600613180377">
+    <state x="142" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600882728185" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1600882716030">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600613180377" />
-    <state width="658" height="145" key="GridCell.Tab.0.bottom" timestamp="1600614723569">
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600882716030" />
+    <state width="658" height="146" key="GridCell.Tab.0.bottom" timestamp="1600882777548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600614723569" />
-    <state width="658" height="145" key="GridCell.Tab.0.center" timestamp="1600614723568">
+    <state width="658" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600882777548" />
+    <state width="658" height="146" key="GridCell.Tab.0.center" timestamp="1600882777548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="145" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600614723568" />
-    <state width="658" height="145" key="GridCell.Tab.0.left" timestamp="1600614723568">
+    <state width="658" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600882777548" />
+    <state width="658" height="146" key="GridCell.Tab.0.left" timestamp="1600882777547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="145" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600614723568" />
-    <state width="658" height="145" key="GridCell.Tab.0.right" timestamp="1600614723569">
+    <state width="658" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600882777547" />
+    <state width="658" height="146" key="GridCell.Tab.0.right" timestamp="1600882777548">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="658" height="145" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600614723569" />
+    <state width="658" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600882777548" />
     <state x="846" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599933736678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="846" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1599933736678" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600875480007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600875480007" />
   </component>
 </project>
