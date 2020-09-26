@@ -1,24 +1,17 @@
-def minimumDistances(a):
+points = [[1,1],[3,4],[-1,0]]
+n =len(points)
+cnt = 0
+for i in range (0,n-1): #excluding the last point
+    x0 = points[i][0]
+    y0 = points[i][1]
+    # print('initial temp : ',tempi,tempj)
 
-    op = []
-    dist = 0
-    for i in range(n):
-        for j in range(n):
-            if i != j and a[j] == a[i]:
-                dist = abs(j-i)
-                op.append(dist)
+    dx = abs(x0 - points[i+1][0])
+    dy = abs(y0 - points[i+1][1])
+    distance = max(dx,dy)
+    cnt = cnt + distance
+    # print(tempj)
 
-    if op == []:
-        result = -1
-    else:
-        result = min(op)
+print(cnt)
 
-    # print(result)
-    return result
-
-
-n = int(input())
-
-a = list(map(int, input().rstrip().split()))
-
-result = minimumDistances(a)
+print('final count ',cnt)
