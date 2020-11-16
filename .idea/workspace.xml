@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7102c2f4-d9f3-485e-a1a5-73dfa8cf12f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_1636.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_908.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
       <recent name="E:\tutorials\problem_solving_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetcode_14">
+  <component name="RunManager" selected="Python.leetcode_1636">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="problem_solving_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_14" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="leetcode_1636" type="PythonConfigurationType" factoryName="Python">
       <module name="problem_solving_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_1636.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +128,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.leetcode_14" />
+      <item itemvalue="Python.leetcode_1636" />
       <item itemvalue="Python.beautiful_day_in_movie" />
       <item itemvalue="Python.taum_bday" />
     </list>
@@ -234,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605420001721</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="similar character in prefix">
+      <created>1605500136141</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605500136141</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,41 +258,42 @@
     <MESSAGE value="Reverse Words in a String III" />
     <MESSAGE value="dictionary based problems" />
     <MESSAGE value="removing specific element from sting" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing specific element from sting" />
+    <MESSAGE value="similar character in prefix" />
+    <option name="LAST_COMMIT_MESSAGE" value="similar character in prefix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605453072153">
+    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605502544254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605453072153" />
-    <state x="666" y="0" key="CommitChangelistDialog2" timestamp="1605419999331">
+    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605502544254" />
+    <state x="666" y="0" key="CommitChangelistDialog2" timestamp="1605500132765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="666" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605419999331" />
+    <state x="666" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605500132765" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1602563942812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602563942812" />
-    <state width="659" height="139" key="GridCell.Tab.0.bottom" timestamp="1605454016820">
+    <state width="522" height="139" key="GridCell.Tab.0.bottom" timestamp="1605506023850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605454016820" />
-    <state width="659" height="139" key="GridCell.Tab.0.center" timestamp="1605454016820">
+    <state width="522" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605506023850" />
+    <state width="522" height="139" key="GridCell.Tab.0.center" timestamp="1605506023849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605454016820" />
-    <state width="659" height="139" key="GridCell.Tab.0.left" timestamp="1605454016820">
+    <state width="522" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605506023849" />
+    <state width="522" height="139" key="GridCell.Tab.0.left" timestamp="1605506023849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605454016820" />
-    <state width="659" height="139" key="GridCell.Tab.0.right" timestamp="1605454016820">
+    <state width="522" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605506023849" />
+    <state width="522" height="139" key="GridCell.Tab.0.right" timestamp="1605506023850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605454016820" />
-    <state x="550" y="99" key="Vcs.Push.Dialog.v2" timestamp="1605420021932">
+    <state width="522" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605506023850" />
+    <state x="550" y="99" key="Vcs.Push.Dialog.v2" timestamp="1605500167406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605420021932" />
+    <state x="550" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605500167406" />
     <state x="846" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599933736678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
