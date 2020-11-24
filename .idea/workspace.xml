@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7102c2f4-d9f3-485e-a1a5-73dfa8cf12f9" name="Default Changelist" comment="latin goat leetcode">
-      <change afterPath="$PROJECT_DIR$/leetcode_1185.py" afterDir="false" />
+    <list default="true" id="7102c2f4-d9f3-485e-a1a5-73dfa8cf12f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode_1046.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       <recent name="E:\tutorials\problem_solving_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.leetcode_1185">
+  <component name="RunManager" selected="Python.leetcode_1046">
     <configuration type="PythonConfigurationType" factoryName="Python">
       <module name="problem_solving_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_1185" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="leetcode_1046" type="PythonConfigurationType" factoryName="Python">
       <module name="problem_solving_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_1185.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_1046.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +127,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.leetcode_1185" />
+      <item itemvalue="Python.leetcode_1046" />
       <item itemvalue="Python.beautiful_day_in_movie" />
       <item itemvalue="Python.taum_bday" />
     </list>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605596793245</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="determining date using zeller's rule">
+      <created>1606142556199</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606142556199</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -274,47 +281,48 @@
     <MESSAGE value="similar character in prefix" />
     <MESSAGE value="sort array by increasing frequency" />
     <MESSAGE value="latin goat leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="latin goat leetcode" />
+    <MESSAGE value="determining date using zeller's rule" />
+    <option name="LAST_COMMIT_MESSAGE" value="determining date using zeller's rule" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606141387445">
+    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606197990048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606141387445" />
+    <state x="191" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606197990048" />
     <state x="191" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1605592920888" />
-    <state x="666" y="0" key="CommitChangelistDialog2" timestamp="1605596805186">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="666" y="0" key="CommitChangelistDialog2" timestamp="1606142554549">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="666" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605506420072" />
+    <state x="666" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606142554549" />
     <state x="666" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1605596805186" />
     <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1602563942812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602563942812" />
-    <state width="659" height="128" key="GridCell.Tab.0.bottom" timestamp="1606142319694">
+    <state width="659" height="128" key="GridCell.Tab.0.bottom" timestamp="1606198495751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="128" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606142319694" />
+    <state width="659" height="128" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606198495751" />
     <state width="659" height="139" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1605594227089" />
-    <state width="659" height="128" key="GridCell.Tab.0.center" timestamp="1606142319694">
+    <state width="659" height="128" key="GridCell.Tab.0.center" timestamp="1606198495751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="128" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606142319694" />
+    <state width="659" height="128" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606198495751" />
     <state width="659" height="139" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1605594227089" />
-    <state width="659" height="128" key="GridCell.Tab.0.left" timestamp="1606142319694">
+    <state width="659" height="128" key="GridCell.Tab.0.left" timestamp="1606198495751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="128" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606142319694" />
+    <state width="659" height="128" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606198495751" />
     <state width="659" height="139" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1605594227089" />
-    <state width="659" height="128" key="GridCell.Tab.0.right" timestamp="1606142319694">
+    <state width="659" height="128" key="GridCell.Tab.0.right" timestamp="1606198495751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="659" height="128" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606142319694" />
+    <state width="659" height="128" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606198495751" />
     <state width="659" height="139" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605594227089" />
-    <state x="550" y="104" key="Vcs.Push.Dialog.v2" timestamp="1605596819131">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="550" y="99" key="Vcs.Push.Dialog.v2" timestamp="1606142571188">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605506438106" />
+    <state x="550" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606142571188" />
     <state x="550" y="104" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605596819131" />
     <state x="846" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599933736678">
       <screen x="0" y="0" width="1366" height="728" />
