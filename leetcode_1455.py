@@ -10,15 +10,14 @@ for word in sentence_split:
     if len(word) < len(searchWord):
         index += 1
     else:
+        equal = 1
         for i in range(0, len(searchWord)):
             if word[i] != searchWord[i]:
+                equal = 0
                 index += 1
                 break
-            else:
-                equal = 1
-
-                if word[i] == searchWord[i]:
-                    isTrue = 1
+        if equal == 1:
+            isTrue = 1
 
     if isTrue == 1:
         break
